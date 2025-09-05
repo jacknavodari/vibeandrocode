@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Code brackets design -->
+    <group android:translateX="18" android:translateY="18">
+        <!-- Left bracket -->
+        <path
+            android:pathData="M20,15 L12,15 L12,57 L20,57 L20,50 L19,50 L19,22 L20,22 L20,15 Z"
+            android:fillColor="#4FC3F7"/>
+        
+        <!-- Right bracket -->
+        <path
+            android:pathData="M72,15 L80,15 L80,22 L81,22 L81,50 L80,50 L80,57 L72,57 L72,50 L73,50 L73,22 L72,22 L72,15 Z"
+            android:fillColor="#4FC3F7"/>
+        
+        <!-- Code symbol </> -->
+        <path
+            android:pathData="M35,30 L45,40 L35,50 L35,43 L40,38 L35,33 L35,30 Z"
+            android:fillColor="#4FC3F7"/>
+        <path
+            android:pathData="M55,30 L55,33 L50,38 L55,43 L55,50 L45,40 L55,30 Z"
+            android:fillColor="#4FC3F7"/>
+    </group>
+</vector>
